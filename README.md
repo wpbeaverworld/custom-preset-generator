@@ -15,6 +15,16 @@ Custom Preset Generator is a Beaver Builder add-on. You can create the multiple 
 6. Fill up the settings form
 7. Click on "Save" button
 
+# Frequently Asked Questions
+
+1. Will this plugin work with Beaver Builder 2.x or later version?
+
+Nope. Current version only works with Beaver Builder 1.x version.
+
+2. Will you update the plugin when stable version of BB 2.x will release?
+
+Yes. I shall do.
+
 # Note
 Before installing the plugin you will keep the database backup of your site.
 
